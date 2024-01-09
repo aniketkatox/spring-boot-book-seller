@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author sa
- * @date 4.07.2021
- * @time 12:04
- */
+
 @RestController
 @RequestMapping("api/internal")//pre-path
 public class InternalApiController

@@ -7,11 +7,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author sa
- * @date 4.07.2021
- * @time 18:15
- */
+
 @RestController
 @RequestMapping("api/book")//pre-path
 public class BookController

@@ -9,11 +9,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author sa
- * @date 4.07.2021
- * @time 18:22
- */
+
 @RestController
 @RequestMapping("api/purchase-history")//pre-path
 public class PurchaseHistoryController

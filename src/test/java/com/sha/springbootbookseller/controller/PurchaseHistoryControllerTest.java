@@ -35,11 +35,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-/**
- * @author sa
- * @date 23.07.2022
- * @time 14:36
- */
+
 //@SpringBootTest
 //@AutoConfigureMockMvc
 //@Import(PurchaseHistoryController.class)

@@ -11,11 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author sa
- * @date 3.07.2021
- * @time 19:47
- */
+
 @RestController
 @RequestMapping("api/authentication")//pre-path
 public class AuthenticationController
